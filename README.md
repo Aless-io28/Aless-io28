@@ -36,7 +36,7 @@
 - **Programming Languages 🌐**:
     
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,php&perline=14" />
+        <img src="https://skillicons.dev/icons?i=js,ts,python,php&perline=5" />
     </a>
 
 <br>   
@@ -44,7 +44,7 @@
 - **Front-End Development**:
 
    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents,react,vite,astro,jquery&perline=14" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents,react,vite,astro,jquery&perline=5" />
     </a>
 
 <br>
@@ -52,7 +52,7 @@
 - **Back-end**:
 
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&perline=14" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&perline=5" />
     </a>
     
 <br>
@@ -60,14 +60,14 @@
 - **Database**:
 
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=14" />
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=5" />
     </a>
 <br>
 
 - **Tools**:
     
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,sublime,&perline=14" />
+        <img src="https://skillicons.dev/icons?i=vscode,sublime,&perline=5" />
     </a>
 
 
