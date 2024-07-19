@@ -5,16 +5,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Improving%20every%20day...;++;Self-taught+Front-End+Developer,;Software+Development+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..%3C3"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 <!--Intro start-->
+-
 - 👨‍💻 I am currently practicing web development technologies such as JavaScript, Typescript, React etc
 
 - 📚 Every day I am learning everything about Frontend and Backend technologies 😎
@@ -41,7 +38,7 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Front-End Development 👕**:
 
    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,styledcomponents,react,vite,astro,jquery&perline=5" />
@@ -49,7 +46,7 @@
 
 <br>
 
-- **Back-end**:
+- **Back-end 🛸**:
 
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&perline=5" />
@@ -57,14 +54,14 @@
     
 <br>
 
-- **Database**:
+- **Database 🧱**:
 
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=5" />
     </a>
 <br>
 
-- **Tools**:
+- **Tools 🧰**:
     
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=vscode,sublime,&perline=5" />
