@@ -11,14 +11,14 @@
 
 <br>
 <!--Intro start-->
--
+
+- :trophy: 2x `ACPC` Finalist.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - 👨‍💻 I am `Junior` currently practicing web development technologies such as JavaScript, Typescript, React etc 
-
 - 📚 Every day I am learning everything about Frontend and Backend technologies 😎
-
 - 💪🏼 Future goals: create large and innovative projects
-
 - 🎞 Facts: I have experience making thumbnails and editing videos
+
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br>
@@ -79,9 +79,11 @@
 <br>
 <div align='left'>
 
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
 <li>
 <a href="mailto:alessiolaiess061@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
 </a>
 </li>
 <div />
