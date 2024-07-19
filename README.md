@@ -76,21 +76,19 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-<li>
 <a href="mailto:alessiolaiess061@gmail.com" target="_blank">
-<img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+<img src="https://img.shields.io/badge/gmail:alessio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
 <div />
 <ul>
 
 <br>
------
+
 
 <br>
 <br>
 <br>
-
+<div></div>
 Credits: [Aless-io28](https://github.com/Aless-io28)
 Last Edited on: 07/18/2024
 <!-- 
