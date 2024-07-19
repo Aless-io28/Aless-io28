@@ -17,10 +17,10 @@
 
 <br>
 
-👨‍💻 I am currently practicing web development technologies such as JavaScript, React, Astro etc.
-📚 Every day I am learning everything about Frontend and Backend technologies 😎
-💪🏼 Future goals: create large and innovative projects
-⚡ Fun fact: I have made thumbnails and edited videos 🤷‍♂️
+-👨‍💻 I am currently practicing web development technologies such as JavaScript, React, Astro etc.
+-📚 Every day I am learning everything about Frontend and Backend technologies 😎
+-💪🏼 Future goals: create large and innovative projects
+-⚡ Fun fact: I have made thumbnails and edited videos 🤷‍♂️
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br><br>
