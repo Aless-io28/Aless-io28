@@ -16,12 +16,9 @@
 <br>
 <!--Intro start-->
 - 👨‍💻 I am currently practicing web development technologies such as JavaScript, Typescript, React etc
-
 - 📚 Every day I am learning everything about Frontend and Backend technologies 😎
-  
 - 💪🏼 Future goals: create large and innovative projects
-  
-- ⚡ Fun fact: I have made thumbnails and edited videos 🤷‍♂️
+- ⚡ Fun fact: I have made thumbnails and edited videos
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br><br>
@@ -141,18 +138,8 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
 
 </div>
 <br>
 <br>
-<br>
-<br>
 
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
