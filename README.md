@@ -11,7 +11,7 @@
 
 <br>
 <!--Intro start-->
-. I am `Junior` currently practicing web development technologies such as JavaScript, Typescript, React etc 👨‍💻
+- 👨‍💻 I am `Junior` currently practicing web development technologies such as JavaScript, Typescript, React etc 
 
 - 📚 Every day I am learning everything about Frontend and Backend technologies 😎
 
@@ -74,15 +74,22 @@
 <br>
 <br>
 
-<!-- <br>
+<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+<div />
 <ul>
-
+	
+<!-- 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
