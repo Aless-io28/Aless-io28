@@ -12,8 +12,6 @@
 <br>
 <!--Intro start-->
 
-- :trophy: 2x `ACPC` Finalist.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 - 👨‍💻 I am `Junior` currently practicing web development technologies such as JavaScript, Typescript, React etc 
 - 📚 Every day I am learning everything about Frontend and Backend technologies 😎
 - 💪🏼 Future goals: create large and innovative projects
@@ -78,9 +76,6 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
 <li>
 <a href="mailto:alessiolaiess061@gmail.com" target="_blank">
 <img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
@@ -88,6 +83,10 @@
 </li>
 <div />
 <ul>
+	
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 Credits: [Aless-io28](https://github.com/Aless-io28)
 Last Edited on: 07/18/2024
