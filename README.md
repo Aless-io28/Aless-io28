@@ -11,8 +11,7 @@
 
 <br>
 <!--Intro start-->
--
-- 👨‍💻 I am currently practicing web development technologies such as JavaScript, Typescript, React etc
+. I am `Junior` currently practicing web development technologies such as JavaScript, Typescript, React etc 👨‍💻
 
 - 📚 Every day I am learning everything about Frontend and Backend technologies 😎
 
