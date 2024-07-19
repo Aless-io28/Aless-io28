@@ -82,13 +82,10 @@
 <img src="https://img.shields.io/badge/gmail:alessio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 <p />
-<ul>
 
 <br>
 
 -----
-
-<br>
 
 Credits: [Aless-io28](https://github.com/Aless-io28)
 
