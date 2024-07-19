@@ -21,7 +21,7 @@
 
 - 💪🏼 Future goals: create large and innovative projects
 
-- 🎞 Fact: I have made thumbnails and edited videos
+- 🎞 Facts: I have experience making thumbnails and editing videos
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) -->
 
 <br><br>
