@@ -68,12 +68,14 @@
 
 </p>
 
+<br>
+
 -----
 
 <br>
-<br>
 
-### 🤝🏻 &nbsp;Connect with Me
+## Connect with Me
+
 <br>
 <p align="left">
 <a href="mailto:alessiolaiess061@gmail.com" target="_blank">
@@ -82,9 +84,6 @@
 <p />
 <ul>
 
-<br>
-
-<br>
 <br>
 
 -----
