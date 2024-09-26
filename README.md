@@ -31,7 +31,8 @@
 - **Programming Languages 🌐**:
     
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,php&perline=5" />
+        <img src="https://skillicons.dev/icons?i=js,ts&perline=5" />
+	<img src="https://skillicons.dev/icons?i=python,php&perline=5" />
     </a>
 
 <br>   
@@ -47,7 +48,8 @@
 - **Back-end 🛸**:
 
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&perline=5" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
+	<img src="https://skillicons.dev/icons?i=django,flask&perline=5" />
     </a>
     
 <br>
@@ -55,7 +57,8 @@
 - **Database 🧱**:
 
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=5" />
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=5" />
+	<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=5" />
     </a>
 <br>
 
