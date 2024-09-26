@@ -32,6 +32,7 @@
     
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts&perline=5" />
+	<br>
 	<img src="https://skillicons.dev/icons?i=python,php&perline=5" />
     </a>
 
@@ -49,6 +50,7 @@
 
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
+	 <br>
 	<img src="https://skillicons.dev/icons?i=django,flask&perline=5" />
     </a>
     
@@ -58,6 +60,7 @@
 
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=5" />
+	<br>
 	<img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=5" />
     </a>
 <br>
