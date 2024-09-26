@@ -7,7 +7,7 @@
 
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+##💫 **About me**
 
 <br>
 <!--Intro start-->
@@ -83,11 +83,18 @@
 ## Connect with Me
 
 <br>
+
 <p align="left">
 <a href="mailto:alessiolaiess061@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:alessio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 <p />
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ale&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ale&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ale&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <br>
 
