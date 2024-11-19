@@ -51,8 +51,8 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
 	 <br>
-	<img src="https://skillicons.dev/icons?i=django,flask&perline=5" />
     </a>
+<!-- 	<img src="https://skillicons.dev/icons?i=django,flask&perline=5" /> -->
     
 <br>
 
