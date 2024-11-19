@@ -33,7 +33,7 @@
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts&perline=5" />
 	<br>
-	<img src="https://skillicons.dev/icons?i=python,php&perline=5" />
+	<img src="https://skillicons.dev/icons?i=php&perline=5" />
     </a>
 
 <br>   
