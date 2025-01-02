@@ -82,7 +82,7 @@
 
 
 <p align="left">
-<a href="mailto:alessiolaiess061@gmail.com" target="_blank">
+<a href="mailto:alessio.ths8@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:alessio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 <p />
